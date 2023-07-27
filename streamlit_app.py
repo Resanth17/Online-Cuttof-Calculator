@@ -24,10 +24,8 @@ if selected == "Home":
         return r.json()
 
     lottie_coding = load_lottieurl("https://assets3.lottiefiles.com/packages/lf20_rocak6fq.json")
-
-
-    st.subheader("Welcome To Cutoff Calculator 🖐🎓")
-    st.title("Online Cutoff Calculator")
+        st.subheader("Welcome To Cutoff Calculator 🖐🎓")
+        st.title("Online Cutoff Calculator")
 
     with st.container():
         st.write("---")
