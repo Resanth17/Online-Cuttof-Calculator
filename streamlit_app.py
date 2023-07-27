@@ -23,7 +23,7 @@ if selected == "Home":
             return None
         return r.json()
 
-lottie_coding = load_lottieurl("https://assets3.lottiefiles.com/packages/lf20_rocak6fq.json")
+    lottie_coding = load_lottieurl("https://assets3.lottiefiles.com/packages/lf20_rocak6fq.json")
 
 
     st.subheader("Welcome To Cutoff Calculator 🖐🎓")
